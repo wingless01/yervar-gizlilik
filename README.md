@@ -1,5 +1,6 @@
-# YerVar gizlilik politikası
+# YerVar yasal metinleri
 
-YerVar uygulamasının gizlilik politikası (10 dil): https://wingless01.github.io/yervar-gizlilik/
+- Gizlilik politikası (10 dil): https://wingless01.github.io/yervar-gizlilik/
+- Kullanım şartları ve çerez politikası (10 dil): https://wingless01.github.io/yervar-gizlilik/kullanim-sartlari/
 
-Bu sayfa YerVar projesindeki `gizlilik/index.html` dosyasından üretilir.
+Bu sayfalar YerVar projesindeki `gizlilik/` klasöründen üretilir (scripts/gizlilik-sayfasi.js).
